@@ -3,7 +3,7 @@ import unittest
 
 class TestEndpoints(unittest.TestCase):
     def test_server_connection(self):
-        self.assertEqual(8,8)
+        self.assertEqual(7,8)
 
 
 if __name__ == '__main__':
