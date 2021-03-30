@@ -9,4 +9,4 @@ phases:
             - pip install -r requirements.txt
     build:
         commands:
-            - pytest tests/route_test.py        
+            - pytest tests/route_test.py
